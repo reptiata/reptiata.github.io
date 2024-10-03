@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://reptiata.github.io/sitemap.html.gz
+Sitemap: https://reptiata.github.io/app/sitemap.html.gz
+Sitemap: https://reptiata.github.io/assets/sitemap.html.gz
+Sitemap: https://reptiata.github.io/css/sitemap.html.gz
+Sitemap: https://reptiata.github.io/data/sitemap.html.gz
+Sitemap: https://reptiata.github.io/includes/sitemap.html.gz
+Sitemap: https://reptiata.github.io/item/sitemap.html.gz
+Sitemap: https://reptiata.github.io/src/sitemap.html.gz
